@@ -19,10 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Practica 11 Resultado
-- ![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/dfd42b99-3158-48fc-b3db-4dd9ab661ed1)
-- ![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/cce79cf6-5555-46ae-8019-8b78d4a8fc12)
-- ![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/c011015b-647c-4305-ae4a-a1bca01d9046)
-- ![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/20b93ab1-59bc-4139-b1f3-897a674e31bf)
+- ![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/6fdff875-7202-4d1c-90e4-8cbc97f77fb6)
+- ![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/d3330f56-2029-4122-842d-191e1aebb24e)
+- !![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/d199140d-1547-43af-9a34-b744d4a85e8b)
+- ![image](https://github.com/DDOrozco17/p11-tabbar-6j/assets/143548028/efd1858a-ac11-42e5-974f-0f5203ce3019)
+
 
 ## Links de referencia
 - https://flutlab.io/editor/1207b8df-2d73-4499-8851-bcf47fdb347a
